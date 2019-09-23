@@ -1,6 +1,6 @@
 spring:
     application:
-        name: testConfig1
+        name: spring-config-client
 server:
     port: 9090
     
