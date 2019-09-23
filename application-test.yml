@@ -1,6 +1,6 @@
 spring:
     application:
-        name: testConfig
+        name: testConfig1
 server:
     port: 9090
     
