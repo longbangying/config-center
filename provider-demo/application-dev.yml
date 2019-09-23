@@ -4,7 +4,7 @@ spring:
   application:
     name: provider-demo
 server:
-  port: 9090
+  port: 9091
 
 
 eureka:
