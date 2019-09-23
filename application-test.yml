@@ -12,3 +12,7 @@ management:
   endpoint:
     shutdown:
       enabled: true
+      
+      
+my:
+   name: {cipher}ca832b99bddd3285416238892270ef2463d65b53edd8f784327eeead264247c6
